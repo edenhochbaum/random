@@ -6,3 +6,6 @@ set expandtab
 set autoindent
 set shiftwidth=4
 set smartindent
+set hlsearch
+set ruler
+set paste
